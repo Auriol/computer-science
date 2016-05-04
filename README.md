@@ -60,6 +60,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
+- [Physics](#physics)
 - [Program Design](#program-design)
 - [Math (Discrete Math)](#math-discrete-math)
 - [Algorithms](#algorithms)
@@ -102,6 +103,16 @@ Courses | Duration | Effort
 [Introduction to Electrical Engineering and Computer Science II](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/) | ?weeks | ?hours/week
 [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) | ?weeks | ?hours/week
 [CS106B - Programming Abstractions](https://see.stanford.edu/Course/CS106B) | ?weeks | ?hours/week
+
+### Physics
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Physics I: Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e) | ? weeks | ? hours/week
+[Physics I: Help Sessions](https://www.youtube.com/playlist?list=PLyQSN7X0ro23IUORJBSDBH8AUWZ1mQBna) | ? weeks | ? hours/week
+[Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) | ? weeks | ? hours/week
+[Physics II: Help Sessions](https://www.youtube.com/playlist?list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c) | ? weeks | ? hours/week
+[Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89) | ? weeks | ? hours/week
 
 ### Math (Mathematical Thinking)
 
