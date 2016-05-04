@@ -1,9 +1,9 @@
 
 ![Open Source Society University (OSSU)](http://i.imgur.com/GjEbgIJ.png)
 
-<h3 align="center">Open Source Society University</h3>
+<h3 align="center">Open Source Society University+ [Centaur Program]</h3>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
+  Path to a free self-taught education in Computer Science! [with additions to stregthen myself as a developer, engineer, and scientist]
 </p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -97,13 +97,18 @@ The second link is a MOOC that will teach you learning techniques used by expert
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week
-[From Nand to Tetris (Part 1) ](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week
+[From Nand to Tetris (Part 1)](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week
+[Introduction to Electrical Engineering and Computer Science I](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) | ?weeks | ?hours/week
+[Introduction to Electrical Engineering and Computer Science II](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/) | ?weeks | ?hours/week
+[CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) | ?weeks | ?hours/week
+[CS106B - Programming Abstractions](https://see.stanford.edu/Course/CS106B) | ?weeks | ?hours/week
 
 ### Math (Mathematical Thinking)
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week
+[Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | ? weeks | ? hours/week
 
 ### Program Design
 
@@ -125,6 +130,9 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks | 6-12 hours/week
 [Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks |  6-12 hours/week
+[Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)| ? weeks |  ? hours/week
+[Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)| ? weeks |  ? hours/week
+[Algorithms for Inference](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-438-algorithms-for-inference-fall-2014/)| ? weeks |  ? hours/week
 
 ### Programming Paradigms
 
@@ -139,31 +147,39 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)| 4 weeks | 6 hours/week
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week
+[CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)| ? weeks | ? hours/week
 
-### Math (Calculus)
+### Math (Calculus) and Differential Equations
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Calculus One](https://www.coursera.org/learn/calculus1)| 16 weeks | 8-10 hours/week
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week
+[Differential Equations A, taken in tandem with Differential Equations B](http://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/lecture-1-the-geometrical-view-of-y-f-x-y/)| ? weeks | ? hours/week
+[Differential Equations B, taken in tandem with Differential Equations A](http://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/lecture-1-the-geometrical-view-of-y-f-x-y/)| ? weeks | ? hours/week
 
 ### Software Architecture
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week
+[Elements of Software Construction](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/)| ? weeks | ? hours/week
+[Software Studio](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/)| ? weeks | ? hours/week
 
 ### Theory
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week
+[Automata, Computability, and Complexity](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)| ? weeks | ? hours/week
 
 ### Software Engineering
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)| 4 weeks | 6-8 hours/week
+[Performance Engineering of Software Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)| ? weeks | ? hours/week
+[Advanced Symbolic Programming](https://groups.csail.mit.edu/mac/users/gjs/6.945/)| ? weeks | ? hours/week
 
 ### Math (Probability)
 
@@ -176,6 +192,9 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Computer Architecture](https://www.coursera.org/course/comparch)| - | 5-8 hours/week
+[Computation Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)| ? weeks | ? hours/week
+[Constructive Computer Architecture](http://csg.csail.mit.edu/6.175/index.html)| ? weeks | ? hours/week
+[Computer System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)| ? weeks | ? hours/week
 
 ### Operating Systems
 
@@ -206,6 +225,9 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix)| 10 weeks | 7-10 hours/week
+[Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)| ? weeks | ? hours/week
+
+
 
 ### Cryptography
 
@@ -243,24 +265,42 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week
+[User Interface Design and Implementation](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-831-user-interface-design-and-implementation-spring-2011/)| ? weeks | ? hours/week
 
 ### Artificial Intelligence
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)| 12 weeks | 15 hours/week
+[MIT Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)| ? weeks | ? hours/week
+[MIT Robotics: Science and Systems I](http://courses.csail.mit.edu/rss/)| ? weeks | ? hours/week
+[MIT Multicore Programming Primer](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/)| ? weeks | ? hours/week
+[Multicore Programming Primer and Programming Competition](http://groups.csail.mit.edu/cag/ps3/lectures.shtml)| ? weeks | ? hours/week
+[MIT Machine Vision](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2004/)| ? weeks | ? hours/week
+[Foundations of Computational and Systems Biology](http://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)| ? weeks | ? hours/week
+[The Human Intelligence Enterprise](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2006/)| ? weeks | ? hours/week
+[Computational Cognitive Science](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/)| ? weeks | ? hours/week
+[Cambridge Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)| ? weeks | ? hours/week
+[Techniques in Artificial Intelligence (SMA 5504)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/)| ? weeks | ? hours/week
+
 
 ### Machine Learning
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week
+[MIT Machine Learning](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)| ? weeks | ? hours/week
+[Course Hero Notes on MIT Machine Learning](https://www.coursehero.com/sitemap/schools/1105-MIT/courses/2014123-66036/)| ? weeks | ? hours/week
 
 ### Natural Language Processing
 
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
+[Natural Language and the Computer Representation of Knowledge](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/)| ? weeks | ? hours/week
+[Advanced Natural Language Processing](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)| ? weeks | ? hours/week
+[Columbia Natural Language Processing](http://www.cs.columbia.edu/~mcollins/6864/)| ? weeks | ? hours/week
+[Automatic Speech Recognition](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/)| ? weeks | ? hours/week
 
 ### Big Data
 
