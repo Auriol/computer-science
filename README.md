@@ -151,6 +151,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week
 [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks | 4-6 hours/week
+[CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)| ? weeks | ? hours/week
 
 ### Software Testing
 
@@ -158,9 +159,8 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)| 4 weeks | 6 hours/week
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week
-[CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)| ? weeks | ? hours/week
 
-### Math (Calculus) and Differential Equations
+### Math (Calculus and Differential Equations)
 
 Courses | Duration | Effort
 :-- | :--: | :--:
