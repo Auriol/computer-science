@@ -97,7 +97,8 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) | 9 weeks | 15 hours/week
+[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 12 weeks | 10-20 hours/week 
 [From Nand to Tetris (Part 1)](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week
 [Introduction to Electrical Engineering and Computer Science I](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) | ?weeks | ?hours/week
 [Introduction to Electrical Engineering and Computer Science II](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/) | ?weeks | ?hours/week
